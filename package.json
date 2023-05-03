@@ -71,7 +71,7 @@
         }
       },
       "db": {
-        "kind": "hana-cloud"
+        "kind": "sql"
       }
     }
   },
